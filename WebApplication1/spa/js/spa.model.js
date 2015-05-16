@@ -1,0 +1,3 @@
+﻿spa.modal = (function () {
+    return {};
+}());

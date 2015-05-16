@@ -1,0 +1,9 @@
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\WebApplication1.xml
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
